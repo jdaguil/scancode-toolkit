@@ -8,6 +8,20 @@ next
 
 
 
+1.6.0 (2016-01-29)
+------------------
+
+* New features
+
+ * The HTML app now display a copyright holder summary graphic
+ * HTML app ui enhancments
+ * File extraction fixes
+ * New and improved license and detection rules
+ * Other minor improvements and minor bug fixes.
+
+These scans are for now only available in the JSON output
+
+
 1.5.0 (2015-12-15)
 ------------------
 
